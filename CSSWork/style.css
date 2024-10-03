@@ -1,0 +1,21 @@
+.container
+{
+    background-color: aqua;
+    height: 400px;
+    width: 400px;
+    margin-top: 50px;
+    margin-left: 50px;
+    padding-top: 2%;
+    padding-left: 5%;
+    border: solid;
+    border-color: red;
+}
+
+.child
+{
+    background-color: azure;
+    border: 150px solid azure;
+    border-radius: 99%;
+    padding-right: 100px;
+}
+
